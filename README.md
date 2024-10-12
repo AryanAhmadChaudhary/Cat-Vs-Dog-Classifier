@@ -1,4 +1,3 @@
-# cat-vs-dog-classifie
 # Cat vs Dog Classifier
 
 A Convolutional Neural Network (CNN) model built with TensorFlow/Keras to classify images of cats and dogs. This project aims to distinguish between cat and dog images with a simple deep learning approach.
